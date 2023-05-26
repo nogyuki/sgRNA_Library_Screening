@@ -1,9 +1,7 @@
 #!/usr/sh
-
 ##########################################################################################
-
-##GuideCalling.sh
-#Created by NOGUCHI
+##GuideCaller.sh
+#Created by NOGUCHI,Yuki
 ##########################################################################################
 #Defining option
 function usage {
