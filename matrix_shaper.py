@@ -1,5 +1,5 @@
 ##################
-#matrix.py [1] [2]
+#matrix_shaper.py [1] [2]
 #1: File Directry (HN00171248/F2-1_1/mageck_result)
 #2: File Name (F2-1_1)
 #Created by NOGUCHI,Yuki
