@@ -1,5 +1,5 @@
 # sgRNA_Library_Screening
-This script, GuideCalling.sh is an analysis pipeline for Gecko-v2 sgRNA library constructed with FastQC, Cutadapt, and MAGeCK. 
+This script, guide-caller.sh is an analysis pipeline for Gecko-v2 sgRNA library constructed with FastQC, Cutadapt, and MAGeCK. 
 Briefly, the 20bp sgRNA sequences were trimmed from 51bp sequenced read, including plasmid- and adaptor-derived sequences. 
 The trimming process was performed twice.
   1st trimming: cutadapt -j 512 -u {N4:28 N5:29 N6:30 N7:31} {Sample}.fastq > {Sample}_(1st)trimmed.fastq
